@@ -10,7 +10,7 @@ npm i @viking04/merge --save
 
 ## Usage
 ```
-var merge = require("..")
+var merge = require("@viking04/merge")
 var a = {"a":{"red":"apple"}}
 var b = {"b":{"yellow":"mango"}}
 var c = {"a":{"orange":"orange"}}

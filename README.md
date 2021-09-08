@@ -2,6 +2,7 @@
 
 ## Description
 @viking04/merge is a simple npm package to merge many sources to target.
+>Note this package can be used only with plain objects or arrays and doesn't support complex types such as Date and Regex currently.
 
 ## Installation
 ```

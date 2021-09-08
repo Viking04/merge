@@ -1,0 +1,25 @@
+{
+  "name": "@viking04/merge",
+  "version": "1.0.0",
+  "description": "@viking04/merge is a simple npm package to merge many sources to target.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viking04/merge.git"
+  },
+  "keywords": [
+    "merge",
+    "javascript",
+    "object",
+    "array"
+  ],
+  "author": "Thrivikram G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Viking04/merge/issues"
+  },
+  "homepage": "https://github.com/Viking04/merge#readme"
+}

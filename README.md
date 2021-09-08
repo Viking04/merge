@@ -1,5 +1,7 @@
 # @viking04/merge
 
+[![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+
 ## Description
 @viking04/merge is a simple npm package to merge many sources to target.
 >Note this package can be used only with plain objects or arrays and doesn't support complex types such as Date and Regex currently.

@@ -1,6 +1,6 @@
 {
   "name": "@viking04/merge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "@viking04/merge is a simple npm package to merge many sources to target.",
   "main": "index.js",
   "scripts": {
